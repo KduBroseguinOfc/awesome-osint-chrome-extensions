@@ -71,7 +71,7 @@
 > When investigating, it is important to organise your work correctly. First of all, automate saving all visited pages, extracting and structuring data from them. Ubikron can solve almost all problems related to this.
 
 
-<img src="https://github.com/ubikron/awesome-osint-chrome-extensions/blob/37075768949a64ca7a9c4b596b787c32913e5cf3/ubikron_main.png" width="100%">
+<img src="https://github.com/ubikron/awesome-osint-chrome-extensions/blob/125a752f90886b22b820756d4538637a84ef6090/2.png" width="100%">
 
 [Ubikron video review](https://www.youtube.com/watch?v=zwb9V3N5iV0)
 
