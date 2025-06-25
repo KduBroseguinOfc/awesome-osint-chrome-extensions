@@ -2,8 +2,8 @@
 
 <div align="center">
      <h1>Awesome Chrome Extensions for OSINT</h1>
-     <img alt="GitHub stars" src="https://img.shields.io/github/stars/ubikron/awesome-chrome-extensions"> 
-     <img alt="GitHub forks" src="https://img.shields.io/github/forks/ubikron/awesome-chrome-extensions"> <br>
+     <img alt="GitHub stars" src="https://img.shields.io/github/stars/ubikron/awesome-osint-chrome-extensions"> 
+     <img alt="GitHub forks" src="https://img.shields.io/github/forks/ubikron/awesome-osint-chrome-extensions"> <br>
      <br>
      <br>
      Often, much of the OSINT analyst's work is done using a browser. And sometimes it consists only of endless data search on different sites. This repository contains extensions for Chrome/Brave that will help make this process more comfortable and efficient.
