@@ -111,7 +111,7 @@
 
 
 > [!NOTE] 
-> Ubikron also has a feature to quickly search for a highlighted image on Google
+> Ubikron also has a feature to quickly search for a selected image or screen clipping on Google
 
 
 ### [](#Video)Video
@@ -236,7 +236,7 @@
 
 
 > [!NOTE] 
-> Ubikron automatically extracts sensitive data from every page visited: domains, names, urls, emails, hashtags, aliases, phones etc.
+> Ubikron automatically extracts well-known entities from every page visited: domains, names, urls, emails, hashtags, aliases, phones and others.
 
 -----
 
@@ -330,7 +330,7 @@
 | [Save Webpages Offline As MHTML ](https://chromewebstore.google.com/detail/save-webpages-offline-as/nfbcfginnecenjncdjhaminfcienmehn) | Save offline copy of current tab as MHTML |
 
 > [!NOTE] 
-> Ubikron allows you to save a web page or its individual fragment in MHTML (reflecting its current state as accurately as possible).
+> Ubikron saves web pages in MHTML (reflecting its current state as accurately as possible).
 
 
 ### [](#automation)Repetitive action automation
@@ -359,7 +359,7 @@
 | [FireShot ](https://chromewebstore.google.com/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) | Take full webpage screenshots. Capture, edit and save them to PDF/JPEG/GIF/PNG, upload, print, send to OneNote, clipboard or email |
 
 > [!NOTE] 
-> Ubikron can also scroll social media feeds all the way to the end and take screenshots of entire web pages.
+> Ubikron allows you to take screen clippings of webpages, annotate and tag it and send it for OCR/AI description.
 
 ### [](#proxy)Proxies
 
@@ -386,6 +386,8 @@
 | [Webmapper ](https://chromewebstore.google.com/detail/webmapper/foachceonkmkeiigdbkjcihnaabppicf/related) | Constructs a map of the web using the user's browser history |
 | [Chrono Download Manager ](https://chromewebstore.google.com/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn) | Download manager, video downloader and bulk image downloader |
 
+> [!NOTE] 
+> Ubikron allows you to tag page and find it later by tag filter.
 
 -----
 
