@@ -97,6 +97,7 @@
 | [Copyleaks AI Content Detector ](https://chromewebstore.google.com/detail/ai-content-detector-copyl/gplcmncpklkdjiccbknjjkoidpgkcakd) | Verify what content was written by a human or an AI chatbot  |
 | [Hive AI Detector ](https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi) | Check if text, images, audio or videos are AI generated |
 | [Polygraf AI Content Detector ](https://chromewebstore.google.com/detail/polygraf-ai-content-detec/cbngnnhgfljncoliddifmkgklphlojnf) | Advanced Plagiarism & ChatGPT Detector |
+| [Resemble AI Deepfake Detector](https://chromewebstore.google.com/detail/resemble-ai-deepfake-dete/ligejojghpehckjpfldljdcckgcbngle) | Scan web images, videos, and audio for AI-generated or manipulated media with verdicts and confidence scores |
 
 
 ### [](#images)Images
